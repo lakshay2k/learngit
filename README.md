@@ -1,2 +1,2 @@
-this is a README file for the repository named "learngit"
-lets get started.
+I have been doing a course on git.
+lets get started
